@@ -1,0 +1,74 @@
+
+#barralogo{
+    background-color: #532915;
+    margin-top: 10px;
+ }
+#choco{
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 200px;
+}
+
+.navbar {
+    background-color: #B5DA4A !important;
+    height: 90px;
+}
+#img-carru{
+    height: 450px;
+}
+#imagen{
+    margin-top: 10px;
+    width: 250px;
+    height: 302px;
+}
+iframe{
+    margin-top: 10px;
+}
+#logoprin{
+    height: 400px;
+    width: 500px;
+}
+.tajetas{
+    padding-left: 50px;
+}
+#texto{
+    text-align: center;
+    color:  #EAFEAC;
+}
+#boton{
+    background-color: #B5DA4A;
+    color: #532915;
+    border: #B5DA4A;
+    
+}
+#logouno{
+    height: 70px;
+    width: 70px;
+    margin-top: auto;
+}
+.logobarra{
+    height: 150px;
+    width: 450px;
+    
+}
+.form-control:focus {
+    color: #532915 !important;
+    background-color: #EAFEAC !important;
+    border: solid #B5DA4A !important;
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+    }
+   
+.gluten {
+    background-color: #dff3a1;
+    padding: 50px 0px;
+    color: #532915;
+}
+/*media queries*/
+@media (max-whidth: 575.98px)
+{
+    .logoprincipal
+    {
+        margin-top: -20%;
+    }
+}
